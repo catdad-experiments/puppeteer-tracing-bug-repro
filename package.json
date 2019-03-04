@@ -1,0 +1,26 @@
+{
+  "name": "puppeteer-tracing-bug-repro",
+  "version": "1.0.0",
+  "description": "puppeteer-tracing-bug-repro",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catdad-experiments/puppeteer-tracing-bug-repro.git"
+  },
+  "author": "Kiril Vatev <vatev.1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catdad-experiments/puppeteer-tracing-bug-repro/issues"
+  },
+  "homepage": "https://github.com/catdad-experiments/puppeteer-tracing-bug-repro#readme",
+  "devDependencies": {
+    "eslint": "^5.15.0"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "puppeteer": "^1.12.2"
+  }
+}
